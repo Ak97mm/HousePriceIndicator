@@ -2,7 +2,7 @@
 House Price Indicator
 This project is a House Price Indicator built using Linear Regression and Random Forest models. It predicts house prices based on various features such as location, size, and other relevant variables. The project was developed in a Jupyter Notebook environment and is ideal for demonstrating supervised machine learning techniques on structured data.
 
-📌 Features
+# 📌 Features
 Cleaned and preprocessed housing dataset
 
 Exploratory Data Analysis (EDA) to understand data patterns
